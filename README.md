@@ -1,10 +1,9 @@
-[![111.png](https://i.postimg.cc/YCbTKmhW/111.png)](https://postimg.cc/DS4x10Qv)
-<div align="center">
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Shashank, a full-time full-stack freelance developer 🚀</div>  
+### <div align="center">I'm Kumar, Shashank, a full-time full-stack freelance developer 🚀</div>  
   
 
 - 🔭 I’m currently working on WordPress Plugins & actively publish at Evanto & CodeCanyon
